@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**LoicBl0ndeau/LoicBl0ndeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Loïc Blondeau — a passionate **Cybersecurity Engineer**, I help clients in the healthcare sector strengthen their security posture and build cyber-resilient infrastructures.
 
-Here are some ideas to get you started:
+## 🛡️ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Security Audits & Assessments**  
+I conduct in-depth cybersecurity audits, identify risks, and deliver actionable insights to enhance security and compliance.
+
+🛠️ **Research & Innovation (R&D)**  
+I actively contribute to innovative projects, exploring new tools, methodologies, and technologies in the cybersecurity field.
+
+🤝 **Client Support & Consulting**  
+I provide strategic guidance, technical support, and post-audit follow-ups to ensure continuous improvement.
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-blondeau-71b47b1a5/)
+- 📧 [loicblondeau59pro@gmail.com](mailto:loicblondeau59pro@gmail.com)
+
+Thanks for stopping by! Feel free to explore my repos, suggest improvements, or collaborate on interesting security-focused projects. 🧩
