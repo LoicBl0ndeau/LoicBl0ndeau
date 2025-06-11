@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I'm Loïc Blondeau — a passionate **Cybersecurity Engineer**, I help clients in the healthcare sector strengthen their security posture and build cyber-resilient infrastructures.
+Hi, I'm Loïc Blondeau — a passionate **Cybersecurity Engineer**, I currently help clients in the healthcare sector strengthen their security posture and build cyber-resilient infrastructures.
 
 ## 🛡️ What I Do
 
