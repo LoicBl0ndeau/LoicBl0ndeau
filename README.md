@@ -15,7 +15,7 @@ I provide strategic guidance, technical support, and post-audit follow-ups to en
 
 ## 📫 Let's Connect
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-blondeau-71b47b1a5/)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/loic-blondeau/)
 - 📧 [loicblondeau59pro@gmail.com](mailto:loicblondeau59pro@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repos, suggest improvements, or collaborate on interesting security-focused projects. 🧩
