@@ -17,5 +17,6 @@ I provide strategic guidance, technical support, and post-audit follow-ups to en
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/loic-blondeau/)
 - 📧 [loicblondeau59pro@gmail.com](mailto:loicblondeau59pro@gmail.com)
+- 🧠 [Hack The Box](https://app.hackthebox.com/profile/1123207)
 
 Thanks for stopping by! Feel free to explore my repos, suggest improvements, or collaborate on interesting security-focused projects. 🧩
